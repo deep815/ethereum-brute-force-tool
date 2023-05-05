@@ -1,4 +1,4 @@
-# Bitcoin Brute Force Tool
+# Ethereum Brute Force Tool
 
 This project is an educational tool that generates random Ethereum addresses and checks their balances using the Infura API. The script can run multiple processes to speed up the address generation and balance checking.
 
